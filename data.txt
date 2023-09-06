@@ -1,0 +1,3 @@
+datbase=AUTO
+ID=car
+PASSWORD=123
